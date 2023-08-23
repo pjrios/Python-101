@@ -1,4 +1,4 @@
-# Instalacion y Uso_de_Python
+# Instalacion de Python
 
 **Explorando Diferentes Formas de Instalar y Utilizar Python**
 
