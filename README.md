@@ -70,7 +70,7 @@ Cada enfoque tiene sus ventajas y desafíos, por lo que la elección dependerá 
 
 3. **Añadir a PATH (Opcional):** Durante la instalación, puedes optar por agregar Anaconda al PATH del sistema. Esto facilitará el acceso a las herramientas de Anaconda desde la línea de comandos.
 
-### Creación de un Entorno de Python con Anaconda:
+### Creación de un Entorno de Python con Anaconda Navigator:
 
 1. **Abrir Anaconda Navigator:** Una vez instalado, abre Anaconda Navigator desde el menú de inicio o desde la línea de comandos ejecutando `anaconda-navigator`.
 
