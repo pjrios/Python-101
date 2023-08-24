@@ -17,8 +17,9 @@ Python, un lenguaje de programación versátil, ofrece diversas maneras de insta
 Cada enfoque tiene sus ventajas y desafíos, por lo que la elección dependerá de tus necesidades y preferencias. Ya sea que optes por una instalación directa, la gestión de entornos virtuales o la conveniencia de la nube, Python te ofrece herramientas flexibles para dar vida a tus proyectos de manera eficiente.
 
 ## Cómo Instalar Python en Diferentes Dispositivos
-
-### 1. Instalación en Windows:
+<details>
+  <summary>Click to expand</summary>
+### Instalación en Windows:
 
 1. **Descargar Python:** Ve al sitio oficial de Python en [python.org](https://www.python.org/) y descarga el instalador de Python para Windows.
 
@@ -41,7 +42,6 @@ Cada enfoque tiene sus ventajas y desafíos, por lo que la elección dependerá 
 2. **Actualizar el Gestor de Paquetes:** Ejecuta `sudo apt update` para actualizar el gestor de paquetes.
 
 3. **Instalación:** Ejecuta `sudo apt install python3` para instalar Python 3 en sistemas basados en Debian/Ubuntu. Para otras distribuciones, utiliza el gestor de paquetes correspondiente.
-
 ### Instalación en Ubuntu:
 
 1. **Terminal:** Abre la terminal.
@@ -57,6 +57,12 @@ Cada enfoque tiene sus ventajas y desafíos, por lo que la elección dependerá 
 2. **Actualizar Repositorios:** Ejecuta `sudo dnf update` para actualizar la lista de paquetes.
 
 3. **Instalación:** Ejecuta `sudo dnf install python3` para instalar Python 3.
+
+
+</details>
+
+
+
 
 
 
@@ -127,5 +133,26 @@ Recuerda reemplazar "mi_entorno" con el nombre que hayas elegido para tu entorno
 12. **Descargar y Subir Archivos:** Puedes descargar archivos generados en tu cuaderno o cargar archivos desde tu sistema local para su procesamiento en Google Colab.
 
 13. **Exportar a Diferentes Formatos:** Puedes exportar tu cuaderno en diferentes formatos, como HTML o PDF, para compartirlo fácilmente.
+
+
+
+<style>
+details {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 0.5em;
+}
+
+summary {
+  cursor: pointer;
+  font-weight: bold;
+}
+</style>
+
+<details>
+  <summary>Click to expand</summary>
+
+  This is the content that will be hidden initially.
+</details>
 
 Google Colab es una herramienta poderosa para trabajar con Python en la nube sin necesidad de configurar entornos locales. Te permite acceder a recursos computacionales y colaborar con otros de manera eficiente. ¡Espero que esta guía te sea útil para comenzar con Google Colab!
