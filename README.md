@@ -71,7 +71,7 @@ Cada enfoque tiene sus ventajas y desafíos, por lo que la elección dependerá 
 
 ## Cómo Instalar Anaconda y Crear un Entorno de Python.
 <details>
-  <summary> Exapndir</summary>
+  <summary> Expandir</summary>
 
 ### Instalación de Anaconda:
 
@@ -116,7 +116,7 @@ Recuerda reemplazar "mi_entorno" con el nombre que hayas elegido para tu entorno
 ## Cómo Usar Google Colab
 
 <details>
-  <summary>Click to expand</summary>
+  <summary>Expandir</summary>
 
 1. **Acceso a Google Colab:** Abre tu navegador web y visita [Google Colab](https://colab.research.google.com/).
 
