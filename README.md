@@ -19,7 +19,8 @@ Cada enfoque tiene sus ventajas y desafíos, por lo que la elección dependerá 
 ## Cómo Instalar Python en Diferentes Dispositivos
 <details>
   <summary>Click to expand</summary>
-### Instalación en Windows:
+   
+### `Instalación en Windows:`
 
 1. **Descargar Python:** Ve al sitio oficial de Python en [python.org](https://www.python.org/) y descarga el instalador de Python para Windows.
 
@@ -68,6 +69,9 @@ Cada enfoque tiene sus ventajas y desafíos, por lo que la elección dependerá 
 
 ## Cómo Instalar Anaconda y Crear un Entorno de Python
 
+<details>
+  <summary>Click to expand</summary>
+
 ### Instalación de Anaconda:
 
 1. **Descargar Anaconda:** Ve al sitio oficial de Anaconda en [anaconda.com](https://www.anaconda.com/products/distribution) y descarga el instalador correspondiente a tu sistema operativo (Windows, macOS o Linux).
@@ -105,8 +109,13 @@ Cada enfoque tiene sus ventajas y desafíos, por lo que la elección dependerá 
 Recuerda reemplazar "mi_entorno" con el nombre que hayas elegido para tu entorno. ¡Con esto, estarás listo para crear y trabajar en entornos de Python utilizando Anaconda!
 
 ¡Por supuesto! Aquí tienes una guía sobre cómo usar Google Colab (Colaboratory), una plataforma de cuadernos de Jupyter basada en la nube, para escribir y ejecutar código en Python:
+</details>
+
 
 ## Cómo Usar Google Colab
+
+<details>
+  <summary>Click to expand</summary>
 
 1. **Acceso a Google Colab:** Abre tu navegador web y visita [Google Colab](https://colab.research.google.com/).
 
@@ -135,6 +144,9 @@ Recuerda reemplazar "mi_entorno" con el nombre que hayas elegido para tu entorno
 13. **Exportar a Diferentes Formatos:** Puedes exportar tu cuaderno en diferentes formatos, como HTML o PDF, para compartirlo fácilmente.
 
 
+Google Colab es una herramienta poderosa para trabajar con Python en la nube sin necesidad de configurar entornos locales. Te permite acceder a recursos computacionales y colaborar con otros de manera eficiente. ¡Espero que esta guía te sea útil para comenzar con Google Colab! 
+</details>
+
 
 <style>
 details {
@@ -149,10 +161,4 @@ summary {
 }
 </style>
 
-<details>
-  <summary>Click to expand</summary>
 
-  This is the content that will be hidden initially.
-</details>
-
-Google Colab es una herramienta poderosa para trabajar con Python en la nube sin necesidad de configurar entornos locales. Te permite acceder a recursos computacionales y colaborar con otros de manera eficiente. ¡Espero que esta guía te sea útil para comenzar con Google Colab!
