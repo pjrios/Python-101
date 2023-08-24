@@ -21,7 +21,7 @@ Cada enfoque tiene sus ventajas y desafíos, por lo que la elección dependerá 
 <details>
   <summary>Click to expand</summary>
    
-### `Instalación en Windows:`
+### Instalación en Windows:
 
 1. **Descargar Python:** Ve al sitio oficial de Python en [python.org](https://www.python.org/) y descarga el instalador de Python para Windows.
 
