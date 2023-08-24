@@ -1,3 +1,4 @@
+
 # Instalacion de Python
 
 **Explorando Diferentes Formas de Instalar y Utilizar Python**
@@ -146,19 +147,5 @@ Recuerda reemplazar "mi_entorno" con el nombre que hayas elegido para tu entorno
 
 Google Colab es una herramienta poderosa para trabajar con Python en la nube sin necesidad de configurar entornos locales. Te permite acceder a recursos computacionales y colaborar con otros de manera eficiente. ¡Espero que esta guía te sea útil para comenzar con Google Colab! 
 </details>
-
-
-<style>
-details {
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  padding: 0.5em;
-}
-
-summary {
-  cursor: pointer;
-  font-weight: bold;
-}
-</style>
 
 
