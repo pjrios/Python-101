@@ -17,9 +17,9 @@ Python, un lenguaje de programación versátil, ofrece diversas maneras de insta
 
 Cada enfoque tiene sus ventajas y desafíos, por lo que la elección dependerá de tus necesidades y preferencias. Ya sea que optes por una instalación directa, la gestión de entornos virtuales o la conveniencia de la nube, Python te ofrece herramientas flexibles para dar vida a tus proyectos de manera eficiente.
 
-## Cómo Instalar Python Directamente en Diferentes Dispositivos
+
 <details>
-  <summary>Click to expand</summary>
+  <summary> 'Cómo Instalar Python Directamente en Diferentes Dispositivos.' </summary>
    
 ### Instalación en Windows:
 
@@ -68,10 +68,10 @@ Cada enfoque tiene sus ventajas y desafíos, por lo que la elección dependerá 
 
 
 
-## Cómo Instalar Anaconda y Crear un Entorno de Python
+
 
 <details>
-  <summary>Click to expand</summary>
+  <summary> Cómo Instalar Anaconda y Crear un Entorno de Python.</summary>
 
 ### Instalación de Anaconda:
 
