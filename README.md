@@ -18,7 +18,7 @@ Python, un lenguaje de programación versátil, ofrece diversas maneras de insta
 Cada enfoque tiene sus ventajas y desafíos, por lo que la elección dependerá de tus necesidades y preferencias. Ya sea que optes por una instalación directa, la gestión de entornos virtuales o la conveniencia de la nube, Python te ofrece herramientas flexibles para dar vida a tus proyectos de manera eficiente.
 
 ## Cómo Instalar Python Directamente en Diferentes Dispositivos.
-<details onclick="toggleDetails(this)">
+<details>
   <summary> Expandir </summary>
    
 ### Instalación en Windows:
@@ -70,7 +70,7 @@ Cada enfoque tiene sus ventajas y desafíos, por lo que la elección dependerá 
 
 
 ## Cómo Instalar Anaconda y Crear un Entorno de Python.
-<details onclick="toggleDetails(this)">
+<details">
   <summary> Exapndir</summary>
 
 ### Instalación de Anaconda:
@@ -115,7 +115,7 @@ Recuerda reemplazar "mi_entorno" con el nombre que hayas elegido para tu entorno
 
 ## Cómo Usar Google Colab
 
-<details onclick="toggleDetails(this)">
+<details">
   <summary>Click to expand</summary>
 
 1. **Acceso a Google Colab:** Abre tu navegador web y visita [Google Colab](https://colab.research.google.com/).
@@ -144,16 +144,7 @@ Recuerda reemplazar "mi_entorno" con el nombre que hayas elegido para tu entorno
 
 13. **Exportar a Diferentes Formatos:** Puedes exportar tu cuaderno en diferentes formatos, como HTML o PDF, para compartirlo fácilmente.
 
-<script>
-  // Function to toggle the state of the <details> element
-  function toggleDetails(details) {
-    if (details.hasAttribute('open')) {
-      details.removeAttribute('open');
-    } else {
-      details.setAttribute('open', 'open');
-    }
-  }
-</script>
+
 
 
 Google Colab es una herramienta poderosa para trabajar con Python en la nube sin necesidad de configurar entornos locales. Te permite acceder a recursos computacionales y colaborar con otros de manera eficiente. ¡Espero que esta guía te sea útil para comenzar con Google Colab! 
