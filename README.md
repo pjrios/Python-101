@@ -6,7 +6,7 @@
 Python, un lenguaje de programación versátil, ofrece diversas maneras de instalación y uso. En este documento, exploraremos tres enfoques distintos:
 
 
-1. **[Instalación Directa en el Dispositivo:](#Cómo-Instalar-Python-en-Diferentes-Dispositivos)**
+1. **[Instalación Directa en el Dispositivo:](#Cómo-Instalar-Python-Directamente-en-Diferentes-Dispositivos)**
    La forma más común de comenzar con Python es instalándolo directamente en tu dispositivo. Este proceso implica descargar e instalar Python desde la página oficial de Python. A través de esta ruta, obtienes control total sobre tu instalación y acceso a la amplia variedad de bibliotecas y herramientas disponibles.
 
 2. **[Instalación en Virtual Environment usando Anaconda:](#Cómo-Instalar-Anaconda-y-Crear-un-Entorno-de-Python)**
@@ -17,7 +17,7 @@ Python, un lenguaje de programación versátil, ofrece diversas maneras de insta
 
 Cada enfoque tiene sus ventajas y desafíos, por lo que la elección dependerá de tus necesidades y preferencias. Ya sea que optes por una instalación directa, la gestión de entornos virtuales o la conveniencia de la nube, Python te ofrece herramientas flexibles para dar vida a tus proyectos de manera eficiente.
 
-## Cómo Instalar Python en Diferentes Dispositivos
+## Cómo Instalar Python Directamente en Diferentes Dispositivos
 <details>
   <summary>Click to expand</summary>
    
