@@ -1,5 +1,5 @@
 
-# Instalacion de Python
+# Instalación de Python
 
 **Explorando Diferentes Formas de Instalar y Utilizar Python**
 
