@@ -1,5 +1,5 @@
 
-<link rel="stylesheet" type="text/css" href="path/to/style.css">
+<link rel="stylesheet" type="text/css" href="assets/css/style.css">
 
 # Instalación de Python
 
