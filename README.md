@@ -1,5 +1,4 @@
 
-<link rel="stylesheet" type="text/css" href="assets/css/style.css">
 
 # Instalación de Python
 
@@ -20,62 +19,63 @@ Python, un lenguaje de programación versátil, ofrece diversas maneras de insta
 Cada enfoque tiene sus ventajas y desafíos, por lo que la elección dependerá de tus necesidades y preferencias. Ya sea que optes por una instalación directa, la gestión de entornos virtuales o la conveniencia de la nube, Python te ofrece herramientas flexibles para dar vida a tus proyectos de manera eficiente.
 
 <details>
-  <summary> <h2> Cómo Instalar Python Directamente en Diferentes Dispositivos. <h2></summary>
-   <ul>
+  <summary> <h2> Cómo Instalar Python Directamente en Diferentes Dispositivos. </h2></summary>
+   <ol>
       <li>
-         <details">
-          <summary><h3>Instalación en Windows</h3></summary>
+         <details>
+          <summary><h3> Instalación en Windows</h3></summary>
              <ul>
                <li><strong>Descargar Python:</strong> Ve al sitio oficial de Python en <a href="https://www.python.org/">python.org</a> y descarga el instalador de Python para Windows.</li>
                <li><strong>Ejecutar el Instalador:</strong> Ejecuta el archivo descargado. Asegúrate de marcar la casilla "Add Python X.Y to PATH" durante la instalación para que Python se agregue al PATH del sistema.</li>
                <li><strong>Instalar Python:</strong> Sigue las instrucciones del instalador. Python se instalará en tu sistema.</li>
                <li><strong>Verificar la Instalación:</strong> Abre la línea de comandos (cmd) y ejecuta <code>python --version</code> para verificar que Python se haya instalado correctamente.</li>
              </ul>
-           </details>
+         </details>
       </li>
-   </ul>
-     
-      ### Instalación en macOS:
-      
-      1. **Terminal:** Python generalmente viene preinstalado en macOS. Abre la Terminal y ejecuta `python3 --version` para verificar si ya está instalado.
-      
-      2. **Instalación desde python.org:** Si deseas una versión más actualizada, puedes descargar el instalador de Python desde [python.org](https://www.python.org/) y ejecutarlo.
-   
-      ### Instalación en Linux:
-      
-      1. **Terminal:** Abre la terminal y ejecuta `python3 --version` para verificar si Python ya está instalado.
-      
-      2. **Actualizar el Gestor de Paquetes:** Ejecuta `sudo apt update` para actualizar el gestor de paquetes.
-      
-      3. **Instalación:** Ejecuta `sudo apt install python3` para instalar Python 3 en sistemas basados en Debian/Ubuntu. Para otras distribuciones, utiliza el gestor de paquetes correspondiente.
-      ### Instalación en Ubuntu:
-   
-      1. **Terminal:** Abre la terminal.
-      
-      2. **Actualizar Repositorios:** Ejecuta `sudo apt update` para actualizar la lista de paquetes.
-      
-      3. **Instalación:** Ejecuta `sudo apt install python3` para instalar Python 3.
-      
-      ### Instalación en Fedora:
-   
-      1. **Terminal:** Abre la terminal.
-      
-      2. **Actualizar Repositorios:** Ejecuta `sudo dnf update` para actualizar la lista de paquetes.
-      
-      3. **Instalación:** Ejecuta `sudo dnf install python3` para instalar Python 3.
-
-
+      <li>
+        <details>
+           <summary><h3> Instalación en macOS</h3></summary>
+              <ul>
+                  <li> <strong>Terminal:</strong> Python generalmente viene preinstalado en macOS. Abre la Terminal y ejecuta <code>python3 --version</code> para verificar si ya está instalado.</li>
+                  <li> <strong>Instalación desde python.org:</strong> Si deseas una versión más actualizada, puedes descargar el instalador de Python desde <a href="https://www.python.org/">python.org</a> y ejecutarlo.</li>
+              </ul>
+          </details>
+      </li>
+      <li>
+         <details>
+            <summary><h3> Instalación en Linux</h3></summary>
+               <ul>
+                  <li><strong>Terminal:</strong> Abre la terminal y ejecuta <code>python3 --version</code> para verificar si Python ya está instalado.</li>
+                  <li><strong>Actualizar el Gestor de Paquetes:</strong> Ejecuta <code>sudo apt update</code> para actualizar el gestor de paquetes.</li>
+                  <li><strong>Instalación:</strong> Ejecuta <code>sudo apt install python3</code> para instalar Python 3 en sistemas basados en Debian/Ubuntu. Para otras distribuciones, utiliza el gestor de paquetes correspondiente. </li>
+               </ul>
+         </details>
+      </li>
+      <li>
+         <details>
+            <summary><h3> Instalación en Fedora</h3></summary>
+         <ul>
+            <li><strong>Terminal:</strong> Abre la terminal.</li>
+            <li><strong>Actualizar Repositorios:</strong> Ejecuta <code>sudo dnf update</code> para actualizar la lista de paquetes.</li>
+            <li><strong>Instalación:</strong> Ejecuta <code>sudo dnf install python3</code> para instalar Python 3.</li>
+         </ul>
+      </details>
+      </li>
+      <li>
+         <details>
+            <summary><h3> Instalación en Ubuntu</h3></summary>
+         <ul>
+            <li><strong>Terminal:</strong> Abre la terminal.</li>
+            <li><strong>Actualizar Repositorios:</strong> Ejecuta <code>sudo apt update</code> para actualizar la lista de paquetes.</li>
+            <li><strong>Instalación:</strong> Ejecuta <code>sudo apt install python3</code> para instalar Python 3.</li>
+         </ul>
+      </details>
+      </li>
+   </ol>
 </details>
 
-
-
-
-
-
-
-## Cómo Instalar Anaconda y Crear un Entorno de Python.
 <details>
-  <summary> Expandir</summary>
+  <summary><h2>Cómo Instalar Anaconda y Crear un Entorno de Python.</h2></summary>
 
 ### Instalación de Anaconda:
 
@@ -113,14 +113,10 @@ Cada enfoque tiene sus ventajas y desafíos, por lo que la elección dependerá 
 
 Recuerda reemplazar "mi_entorno" con el nombre que hayas elegido para tu entorno. ¡Con esto, estarás listo para crear y trabajar en entornos de Python utilizando Anaconda!
 
-¡Por supuesto! Aquí tienes una guía sobre cómo usar Google Colab (Colaboratory), una plataforma de cuadernos de Jupyter basada en la nube, para escribir y ejecutar código en Python:
 </details>
 
-
-## Cómo Usar Google Colab
-
 <details>
-  <summary>Expandir</summary>
+  <summary><h2>Cómo Usar Google Colab</h2></summary>
 
 1. **Acceso a Google Colab:** Abre tu navegador web y visita [Google Colab](https://colab.research.google.com/).
 
@@ -153,5 +149,6 @@ Recuerda reemplazar "mi_entorno" con el nombre que hayas elegido para tu entorno
 
 Google Colab es una herramienta poderosa para trabajar con Python en la nube sin necesidad de configurar entornos locales. Te permite acceder a recursos computacionales y colaborar con otros de manera eficiente. ¡Espero que esta guía te sea útil para comenzar con Google Colab! 
 </details>
+
 
 
