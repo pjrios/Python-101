@@ -10,7 +10,7 @@ Python, un lenguaje de programación versátil, ofrece diversas maneras de insta
 1. **<a href="#instalacion-en-diferentes-dispositivos">Instalación Directa en el Dispositivo:</a>**
    La forma más común de comenzar con Python es instalándolo directamente en tu dispositivo. Este proceso implica descargar e instalar Python desde la página oficial de Python. A través de esta ruta, obtienes control total sobre tu instalación y acceso a la amplia variedad de bibliotecas y herramientas disponibles.
 
-2. **<a href="#Anaconda">Cómo Instalar Anaconda y Crear un Entorno de Python: </a>**
+2. **<a href="#windows">Cómo Instalar Anaconda y Crear un Entorno de Python: </a>**
    Anaconda, una plataforma de administración de datos y desarrollo, ofrece una solución para administrar entornos aislados de Python. Esto es especialmente útil cuando trabajas en proyectos separados con diferentes dependencias. Puedes crear entornos virtuales personalizados y controlar las versiones de las bibliotecas instaladas, lo que garantiza una mayor flexibilidad y evita conflictos entre proyectos.
 
 3. **<a href="#colab">Uso en Línea mediante Google Colab:</a>**
@@ -22,7 +22,7 @@ Cada enfoque tiene sus ventajas y desafíos, por lo que la elección dependerá 
   <summary> <h2> Cómo Instalar Python Directamente en Diferentes Dispositivos. </h2></summary>
    <ol>
       <li>
-         <details>
+         <details id="windows">
           <summary><h3> Instalación en Windows</h3></summary>
              <ul>
                <li><strong>Descargar Python:</strong> Ve al sitio oficial de Python en <a href="https://www.python.org/">python.org</a> y descarga el instalador de Python para Windows.</li>
