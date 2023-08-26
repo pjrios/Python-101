@@ -1,4 +1,6 @@
 
+<link rel="stylesheet" type="text/css" href="path/to/style.css">
+
 # Instalación de Python
 
 **Explorando Diferentes Formas de Instalar y Utilizar Python**
@@ -19,19 +21,15 @@ Cada enfoque tiene sus ventajas y desafíos, por lo que la elección dependerá 
 
 <details>
   <summary> <h2> Cómo Instalar Python Directamente en Diferentes Dispositivos. <h2></summary>
-   <details>
-     <summary> <h3> Instalación en Windows <h3></summary>
-
-   
-      1. **Descargar Python:** Ve al sitio oficial de Python en [python.org](https://www.python.org/) y descarga el instalador de Python para Windows.
-      
-      2. **Ejecutar el Instalador:** Ejecuta el archivo descargado. Asegúrate de marcar la casilla "Add Python X.Y to PATH" durante la instalación para que Python se agregue al PATH del sistema.
-      
-      3. **Instalar Python:** Sigue las instrucciones del instalador. Python se instalará en tu sistema.
-      
-      4. **Verificar la Instalación:** Abre la línea de comandos (cmd) y ejecuta `python --version` para verificar que Python se haya instalado correctamente.
-
-   </details>
+   <details class="nested-details">
+    <summary><h3>Instalación en Windows</h3></summary>
+    <ul>
+      <li><strong>Descargar Python:</strong> Ve al sitio oficial de Python en <a href="https://www.python.org/">python.org</a> y descarga el instalador de Python para Windows.</li>
+      <li><strong>Ejecutar el Instalador:</strong> Ejecuta el archivo descargado. Asegúrate de marcar la casilla "Add Python X.Y to PATH" durante la instalación para que Python se agregue al PATH del sistema.</li>
+      <li><strong>Instalar Python:</strong> Sigue las instrucciones del instalador. Python se instalará en tu sistema.</li>
+      <li><strong>Verificar la Instalación:</strong> Abre la línea de comandos (cmd) y ejecuta <code>python --version</code> para verificar que Python se haya instalado correctamente.</li>
+    </ul>
+  </details>
 
    ### Instalación en macOS:
    
