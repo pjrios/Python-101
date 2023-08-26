@@ -10,10 +10,10 @@ Python, un lenguaje de programación versátil, ofrece diversas maneras de insta
 1. **<a href="#instalacion-en-diferentes-dispositivos">Instalación Directa en el Dispositivo:</a>**
    La forma más común de comenzar con Python es instalándolo directamente en tu dispositivo. Este proceso implica descargar e instalar Python desde la página oficial de Python. A través de esta ruta, obtienes control total sobre tu instalación y acceso a la amplia variedad de bibliotecas y herramientas disponibles.
 
-2. **[Instalación en Virtual Environment usando Anaconda:](#Cómo-Instalar-Anaconda-y-Crear-un-Entorno-de-Python)**
+2. **<a href="#Anaconda">Cómo Instalar Anaconda y Crear un Entorno de Python: </a>**
    Anaconda, una plataforma de administración de datos y desarrollo, ofrece una solución para administrar entornos aislados de Python. Esto es especialmente útil cuando trabajas en proyectos separados con diferentes dependencias. Puedes crear entornos virtuales personalizados y controlar las versiones de las bibliotecas instaladas, lo que garantiza una mayor flexibilidad y evita conflictos entre proyectos.
 
-3. **[Uso en Línea mediante Google Colab:](#Cómo-Usar-Google-Colab)**
+3. **<a href="#colab">Uso en Línea mediante Google Colab:</a>**
    Google Colab (Colaboratory) proporciona una plataforma en línea para ejecutar cuadernos de Jupyter en la nube. Esto elimina la necesidad de configurar un entorno local y te brinda acceso a potentes recursos, como GPUs y TPUs, para cálculos intensivos. Además, puedes colaborar con otros en tiempo real en un mismo cuaderno y compartir tus trabajos fácilmente.
 
 Cada enfoque tiene sus ventajas y desafíos, por lo que la elección dependerá de tus necesidades y preferencias. Ya sea que optes por una instalación directa, la gestión de entornos virtuales o la conveniencia de la nube, Python te ofrece herramientas flexibles para dar vida a tus proyectos de manera eficiente.
@@ -74,7 +74,7 @@ Cada enfoque tiene sus ventajas y desafíos, por lo que la elección dependerá 
    </ol>
 </details>
 
-<details>
+<details id="Anaconda">
   <summary><h2>Cómo Instalar Anaconda y Crear un Entorno de Python.</h2></summary>
 
 ### Instalación de Anaconda:
@@ -115,7 +115,7 @@ Recuerda reemplazar "mi_entorno" con el nombre que hayas elegido para tu entorno
 
 </details>
 
-<details>
+<details id="colab">
   <summary><h2>Cómo Usar Google Colab</h2></summary>
 
 1. **Acceso a Google Colab:** Abre tu navegador web y visita [Google Colab](https://colab.research.google.com/).
