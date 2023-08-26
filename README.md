@@ -17,48 +17,50 @@ Python, un lenguaje de programación versátil, ofrece diversas maneras de insta
 
 Cada enfoque tiene sus ventajas y desafíos, por lo que la elección dependerá de tus necesidades y preferencias. Ya sea que optes por una instalación directa, la gestión de entornos virtuales o la conveniencia de la nube, Python te ofrece herramientas flexibles para dar vida a tus proyectos de manera eficiente.
 
-## Cómo Instalar Python Directamente en Diferentes Dispositivos.
 <details>
-  <summary> Expandir </summary>
+  <summary> <h2> Cómo Instalar Python Directamente en Diferentes Dispositivos. <h2></summary>
+   <details>
+     <summary> <h3> Instalación en Windows <h3></summary>
+
    
-### Instalación en Windows:
+      1. **Descargar Python:** Ve al sitio oficial de Python en [python.org](https://www.python.org/) y descarga el instalador de Python para Windows.
+      
+      2. **Ejecutar el Instalador:** Ejecuta el archivo descargado. Asegúrate de marcar la casilla "Add Python X.Y to PATH" durante la instalación para que Python se agregue al PATH del sistema.
+      
+      3. **Instalar Python:** Sigue las instrucciones del instalador. Python se instalará en tu sistema.
+      
+      4. **Verificar la Instalación:** Abre la línea de comandos (cmd) y ejecuta `python --version` para verificar que Python se haya instalado correctamente.
 
-1. **Descargar Python:** Ve al sitio oficial de Python en [python.org](https://www.python.org/) y descarga el instalador de Python para Windows.
+   </details>
 
-2. **Ejecutar el Instalador:** Ejecuta el archivo descargado. Asegúrate de marcar la casilla "Add Python X.Y to PATH" durante la instalación para que Python se agregue al PATH del sistema.
+   ### Instalación en macOS:
+   
+   1. **Terminal:** Python generalmente viene preinstalado en macOS. Abre la Terminal y ejecuta `python3 --version` para verificar si ya está instalado.
+   
+   2. **Instalación desde python.org:** Si deseas una versión más actualizada, puedes descargar el instalador de Python desde [python.org](https://www.python.org/) y ejecutarlo.
 
-3. **Instalar Python:** Sigue las instrucciones del instalador. Python se instalará en tu sistema.
+   ### Instalación en Linux:
+   
+   1. **Terminal:** Abre la terminal y ejecuta `python3 --version` para verificar si Python ya está instalado.
+   
+   2. **Actualizar el Gestor de Paquetes:** Ejecuta `sudo apt update` para actualizar el gestor de paquetes.
+   
+   3. **Instalación:** Ejecuta `sudo apt install python3` para instalar Python 3 en sistemas basados en Debian/Ubuntu. Para otras distribuciones, utiliza el gestor de paquetes correspondiente.
+   ### Instalación en Ubuntu:
 
-4. **Verificar la Instalación:** Abre la línea de comandos (cmd) y ejecuta `python --version` para verificar que Python se haya instalado correctamente.
+   1. **Terminal:** Abre la terminal.
+   
+   2. **Actualizar Repositorios:** Ejecuta `sudo apt update` para actualizar la lista de paquetes.
+   
+   3. **Instalación:** Ejecuta `sudo apt install python3` para instalar Python 3.
+   
+   ### Instalación en Fedora:
 
-### Instalación en macOS:
-
-1. **Terminal:** Python generalmente viene preinstalado en macOS. Abre la Terminal y ejecuta `python3 --version` para verificar si ya está instalado.
-
-2. **Instalación desde python.org:** Si deseas una versión más actualizada, puedes descargar el instalador de Python desde [python.org](https://www.python.org/) y ejecutarlo.
-
-### Instalación en Linux:
-
-1. **Terminal:** Abre la terminal y ejecuta `python3 --version` para verificar si Python ya está instalado.
-
-2. **Actualizar el Gestor de Paquetes:** Ejecuta `sudo apt update` para actualizar el gestor de paquetes.
-
-3. **Instalación:** Ejecuta `sudo apt install python3` para instalar Python 3 en sistemas basados en Debian/Ubuntu. Para otras distribuciones, utiliza el gestor de paquetes correspondiente.
-### Instalación en Ubuntu:
-
-1. **Terminal:** Abre la terminal.
-
-2. **Actualizar Repositorios:** Ejecuta `sudo apt update` para actualizar la lista de paquetes.
-
-3. **Instalación:** Ejecuta `sudo apt install python3` para instalar Python 3.
-
-### Instalación en Fedora:
-
-1. **Terminal:** Abre la terminal.
-
-2. **Actualizar Repositorios:** Ejecuta `sudo dnf update` para actualizar la lista de paquetes.
-
-3. **Instalación:** Ejecuta `sudo dnf install python3` para instalar Python 3.
+   1. **Terminal:** Abre la terminal.
+   
+   2. **Actualizar Repositorios:** Ejecuta `sudo dnf update` para actualizar la lista de paquetes.
+   
+   3. **Instalación:** Ejecuta `sudo dnf install python3` para instalar Python 3.
 
 
 </details>
