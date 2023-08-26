@@ -1,5 +1,4 @@
-<details id="instalacion-en-diferentes-dispositivos">
-  <summary> <h2> Cómo Instalar Python Directamente en Diferentes Dispositivos. </h2></summary>
+<h2> Cómo Instalar Python Directamente en Diferentes Dispositivos. </h2>
    <ol>
       <li>
          <details id="windows">
@@ -52,5 +51,5 @@
       </details>
       </li>
    </ol>
-</details>
+
 
