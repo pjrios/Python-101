@@ -14,6 +14,10 @@ Python proporciona un intérprete interactivo que te permite ejecutar código l�
 - No es ideal para ejecutar scripts largos o proyectos completos.
 - La falta de persistencia puede dificultar la reutilización de código.
 
+<p align="center">
+      <img src="imagenes/ejemplo-cmd.png" alt="image" width="auto" height="390">
+</p>
+
 ### 2. **Scripts Independientes:**
 
 Crear scripts de Python en archivos con extensión `.py` es una manera común de escribir y ejecutar código. Puedes editar estos scripts con cualquier editor de texto y luego ejecutarlos desde la terminal con `python nombre_del_script.py`.
@@ -25,6 +29,10 @@ Crear scripts de Python en archivos con extensión `.py` es una manera común de
 
 **Desafíos:**
 - Puede requerir la instalación de dependencias y la gestión manual de entornos virtuales.
+
+  <p align="center">
+      <img src="imagenes/ejemplo-programa.png" alt="image" width="auto" height="390">
+  </p>
 
 ### 3. **Entornos de Desarrollo Integrados (IDEs):**
 
@@ -38,5 +46,9 @@ Los IDEs, como PyCharm, Visual Studio Code y Jupyter Notebook, ofrecen entornos 
 **Desafíos:**
 - Puede requerir más recursos de sistema en comparación con los métodos anteriores.
 - Puede tener una curva de aprendizaje inicial para aprovechar todas las características.
+
+  <p align="center">
+      <img src="imagenes/ejemplo-anaconda.png" alt="image" width="auto" height="390">
+  </p>
 
 Cada enfoque tiene su lugar en el proceso de desarrollo de Python, y la elección depende de la naturaleza del proyecto, la preferencia personal y las herramientas disponibles. Experimenta con estas diferentes formas para encontrar la que mejor se adapte a tu flujo de trabajo y requisitos específicos.
