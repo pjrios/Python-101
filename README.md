@@ -18,7 +18,7 @@ Si eres nuevo en Python, ¡no te preocupes! En esta sección, te guiaremos a tra
 
 Una vez que tengas Python instalado, es hora de comenzar a escribir y ejecutar tus propios scripts. Aquí, te proporcionaremos una visión general de cómo funciona la ejecución de scripts en Python y diferentes metodos que puedes usar. 
 
-### 3. Explorando Ejemplos: [Documentación/Ejemplos]
+### 3. Explorando Ejemplos: [Ejemplos]
 
 La mejor manera de aprender es a través de ejemplos prácticos, ¿verdad? En esta sección, te sumergirás en una serie de ejemplos concretos que abarcan diversas áreas de la programación en Python. Cada ejemplo viene con una explicación detallada para que puedas comprender el código y cómo funciona. Desde cálculos simples hasta estructuras de control más complejas, estos ejemplos te ayudarán a solidificar tu comprensión de Python.
 
