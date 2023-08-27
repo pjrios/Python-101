@@ -1,8 +1,8 @@
 <h2>Cómo Usar Google Colab</h2>
 
 1. **Acceso a Google Colab:** Abre tu navegador web y visita [Google Colab](https://colab.research.google.com/?hl=es).
-  <div style="text-align='center'">
-    <img src="imagenes/colab-1.png" alt="image" width="auto" height="350">
+  <div>
+    <img src="imagenes/colab-1.png" alt="image" width="auto" height="350" style="text-align:center;">
   </div>
 
 
