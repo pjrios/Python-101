@@ -1,5 +1,9 @@
 <h2>Cómo Usar Google Colab</h2>
 
+
+Google Colab es una herramienta poderosa para trabajar con Python en la nube sin necesidad de configurar entornos locales. Te permite acceder a recursos computacionales y colaborar con otros de manera eficiente. ¡Espero que esta guía te sea útil para comenzar con Google Colab! 
+
+
 1. **Acceso a Google Colab:** Abre tu navegador web y visita [Google Colab](https://colab.research.google.com/?hl=es).
   <p align="center">
       <img src="imagenes/colab-1.png" alt="image" width="auto" height="350">
@@ -21,7 +25,7 @@
 
 7. **Escribir Código:** En una celda de código, puedes escribir código en lenguaje Python. Para ejecutar el código en una celda, presiona Shift + Enter o haz clic en el botón "Play" (Reproducir) que aparece a la izquierda de la celda.
   <p align="center">
-    <img src="imagenes/colab-4.png" alt="image" width="400" height="auto"> |
+    <img src="imagenes/colab-4.png" alt="image" width="400" height="auto"> 
     <img src="imagenes/colab-5.png" alt="image" width="400" height="auto">
   </p>
 
@@ -45,7 +49,3 @@
 
 17. **Exportar a Diferentes Formatos:** Puedes exportar tu cuaderno en diferentes formatos, como HTML o PDF, para compartirlo fácilmente.
 
-
-
-
-Google Colab es una herramienta poderosa para trabajar con Python en la nube sin necesidad de configurar entornos locales. Te permite acceder a recursos computacionales y colaborar con otros de manera eficiente. ¡Espero que esta guía te sea útil para comenzar con Google Colab! 
