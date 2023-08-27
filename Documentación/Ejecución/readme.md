@@ -2,6 +2,8 @@
 
 Python, como lenguaje de programación versátil, ofrece diversas formas de ejecutar y probar código. Cada enfoque tiene sus propias ventajas y desafíos, adaptándose a diferentes situaciones y necesidades. A continuación, exploraremos tres maneras comunes de ejecutar código de Python:
 
+**`Nota:`** Cada enfoque tiene su lugar en el proceso de desarrollo de Python, y la elección depende de la naturaleza del proyecto, la preferencia personal y las herramientas disponibles. Experimenta con estas diferentes formas para encontrar la que mejor se adapte a tu flujo de trabajo y requisitos específicos.
+
 ### 1. **Interpretación Interactiva:**
 
 Python proporciona un intérprete interactivo que te permite ejecutar código línea por línea en tiempo real. Puedes acceder a él abriendo una terminal y escribiendo `python`.
@@ -51,4 +53,3 @@ Los IDEs, como PyCharm, Visual Studio Code y Jupyter Notebook, ofrecen entornos 
       <img src="imagenes/ejemplo-anaconda.png" alt="image" width="auto" height="390">
   </p>
 
-Cada enfoque tiene su lugar en el proceso de desarrollo de Python, y la elección depende de la naturaleza del proyecto, la preferencia personal y las herramientas disponibles. Experimenta con estas diferentes formas para encontrar la que mejor se adapte a tu flujo de trabajo y requisitos específicos.
