@@ -1,8 +1,8 @@
 <h2>Cómo Usar Google Colab</h2>
 
 1. **Acceso a Google Colab:** Abre tu navegador web y visita [Google Colab](https://colab.research.google.com/?hl=es).
-  <div>
-    <img src="[https://github.com/pjrios/Como-Usar-Python/raw/main/assets/98301213/a41e3347-4005-4a9a-8878-8b6a19789e47](https://github.com/pjrios/Como-Usar-Python/blob/main/Documentaci%C3%B3n/imagenes/colab-1.png)" alt="image" width="200" height="auto">
+  <div style="text-align='center'">
+    <img src="imagenes/colab-1.png" alt="image" width="auto" height="350">
   </div>
 
 
