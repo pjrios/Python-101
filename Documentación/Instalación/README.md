@@ -7,7 +7,7 @@
 Python, un lenguaje de programación versátil, ofrece diversas maneras de instalación y uso. En este documento, exploraremos tres enfoques distintos:
 
 
-1. [Instalación Directa en el Dispositivo:](https://github.com/pjrios/Como-Usar-Python/blob/main/Documentaci%C3%B3n/Instalaci%C3%B3n%20Directa%20en%20el%20Dispositivo.md)
+1. [Instalación Directa en el Dispositivo:](Instalación-Directa-en-el-Dispositivo.md)
    La forma más común de comenzar con Python es instalándolo directamente en tu dispositivo. Este proceso implica descargar e instalar Python desde la página oficial de Python. A través de esta ruta, obtienes control total sobre tu instalación y acceso a la amplia variedad de bibliotecas y herramientas disponibles.
 
 2. [Cómo Instalar Anaconda y Crear un Entorno de Python:](https://github.com/pjrios/Como-Usar-Python/blob/main/Documentaci%C3%B3n/C%C3%B3mo%20Instalar%20Anaconda%20y%20Crear%20un%20Entorno%20de%20Python.md)
