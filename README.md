@@ -27,62 +27,62 @@ La mejor manera de aprender es a través de ejemplos prácticos, ¿verdad? En es
 
 ## Elementos fundamentales - Sintaxis y Semántica de Python
 
-### Fundamentos de la Sintaxis de Python
+### 1. Fundamentos de la Sintaxis de Python
 - Entendiendo la indentación
 - Comentarios y cadenas de documentación (docstrings)
 - Variables y Tipos de Datos
 
-### Entendiendo Diferentes Tipos de Datos
+### 2. Entendiendo Diferentes Tipos de Datos
 - Enteros, flotantes, cadenas, booleanos
 - Declarando y utilizando variables
 
-### Operadores
+### 3. Operadores
 - Operadores aritméticos
 - Operadores de comparación
 - Operadores lógicos
 - Operadores de asignación
 
-### Estructuras de Control
+### 4. Estructuras de Control
 - Declaraciones condicionales (if, else, elif)
 - Bucles (for, while)
 - Declaraciones de break y continue
 
-### Funciones
+### 5. Funciones
 - Definiendo y llamando a funciones
 - Declaraciones de retorno
 - Parámetros y argumentos
 - Alcance de las variables
 
-### Estructuras de Datos
+### 6. Estructuras de Datos
 - Listas
 - Tuplas
 - Conjuntos
 - Diccionarios
 
-### Manejo de Errores y Excepciones
+### 7. Manejo de Errores y Excepciones
 - Bloques try y except
 - Manejo de múltiples excepciones
 - Cláusula finally
 
-### Manejo de Archivos
+### 8. Manejo de Archivos
 - Lectura y escritura de archivos
 - Trabajo con diferentes formatos de archivo (texto, CSV, JSON)
 
-### Módulos y Paquetes
+### 9. Módulos y Paquetes
 - Importación de módulos
 - Creación de tus propios módulos
 - Entendiendo y utilizando paquetes
 
-### Programación Orientada a Objetos Básica
+### 10. Programación Orientada a Objetos Básica
 - Clases y objetos
 - Atributos y métodos
 - Herencia y polimorfismo
 
-### Biblioteca Estándar de Python
+### 11. Biblioteca Estándar de Python
 - Exploración de funciones integradas
 - Introducción a módulos comúnmente utilizados (como os, datetime, math)
 
-### Programación Básica y Automatización
+### 12. Programación Básica y Automatización
 - Escritura de scripts simples
 - Automatización de tareas repetitivas
 
