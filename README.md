@@ -25,7 +25,7 @@ Ubicación: [Ejemplos](Ejemplos)
 
 La mejor manera de aprender es a través de ejemplos prácticos, ¿verdad? En esta sección, te sumergirás en una serie de ejemplos concretos que abarcan diversas áreas de la programación en Python. Cada ejemplo viene con una explicación detallada para que puedas comprender el código y cómo funciona. Desde cálculos simples hasta estructuras de control más complejas, estos ejemplos te ayudarán a solidificar tu comprensión de Python.
 
-## Sintaxis y Semántica de Python
+## Elementos fundamentales - Sintaxis y Semántica de Python
 
 ### Fundamentos de la Sintaxis de Python
 - Entendiendo la indentación
