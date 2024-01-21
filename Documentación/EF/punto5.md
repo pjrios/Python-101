@@ -1,5 +1,6 @@
 
 # Funciones
+Las funciones son bloques de código que se pueden llamar y ejecutar en cualquier momento. Son fundamentales para la reutilización de código y la organización en Python.
 
 ### Definiendo y Llamando Funciones
 1. **Definición y Llamada de Funciones**
@@ -58,3 +59,73 @@
    - **Nota:** Una variable en el alcance local no se puede acceder desde fuera de su función, pero una variable global se puede acceder desde cualquier parte del código.
 
 Entender las funciones en Python es clave para escribir código reutilizable y organizado. Las funciones te permiten encapsular la lógica del código y ejecutarla múltiples veces, potencialmente con diferentes argumentos, haciendo tu código más modular y eficiente. Practicar con diferentes tipos de funciones y parámetros ayudará a solidificar tu comprensión de este concepto.
+
+# Ejemplos
+
+## Definiendo y Llamando a Funciones
+
+Una función se define con la palabra clave `def` y se llama por su nombre seguido de paréntesis.
+
+### Ejemplos:
+
+```python
+# Definiendo una función
+def saludar():
+    print("Hola, mundo!")
+
+# Llamando a la función
+saludar()
+```
+
+## Declaraciones de Retorno
+
+Las funciones pueden devolver valores usando la palabra clave `return`.
+
+### Ejemplos:
+
+```python
+# Función que retorna la suma de dos números
+def sumar(a, b):
+    return a + b
+
+resultado = sumar(5, 3)
+print("La suma es:", resultado)
+```
+
+## Parámetros y Argumentos
+
+Los parámetros son variables que se definen en la función, y los argumentos son los valores pasados a la función.
+
+### Ejemplos:
+
+```python
+# Función con parámetros
+def presentarse(nombre, edad):
+    print(f"Mi nombre es {nombre} y tengo {edad} años.")
+
+# Llamando a la función con argumentos
+presentarse("Ana", 25)
+```
+
+## Alcance de las Variables
+
+El alcance de una variable determina dónde está disponible y accesible.
+
+### Ejemplos:
+
+```python
+# Variable global
+variable_global = "Global"
+
+def demostrar_alcance():
+    # Variable local
+    variable_local = "Local"
+    print(variable_local)
+    print(variable_global)
+
+demostrar_alcance()
+print(variable_global)
+# print(variable_local) - Esto generaría un error ya que variable_local es local a la función
+```
+
+Estos ejemplos muestran cómo definir, llamar y trabajar con funciones en Python. Las funciones son herramientas esenciales en la programación que permiten escribir código más limpio, modular y reutilizable.
