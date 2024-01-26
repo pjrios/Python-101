@@ -97,7 +97,7 @@ Las variables en Python se utilizan para almacenar datos de diferentes tipos.
 **Ejemplo:**
 
 ```python
-# Números
+# Ejemplo con Números
 edad = 25  # Entero (int)
 altura = 1.75  # Flotante (float)
 
