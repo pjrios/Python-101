@@ -71,3 +71,7 @@ print("Altura:", altura, "metros")
 print("Estudiante:", es_estudiante)
 ```
 
+### Practice
+1. a
+2. b
+3. c
