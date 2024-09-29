@@ -518,6 +518,6 @@ El año 1900 no es bisiesto.
   - [Programación en Python](https://aprendeconalf.es/docencia/python/)
 
 - **Videos Educativos**:
-  - [Curso de Python para Principiantes](https://www.youtube.com/playlist?list=PLxuUHF3OiqfWAITD4gPUHZ1GcZXcqBzKF)
+  - [Curso de Python para Principiantes](https://www.youtube.com/watch?v=numQzIgpOo0&ab_channel=BitBoss)
 
 ---
