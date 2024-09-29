@@ -1,5 +1,5 @@
-
 # Sintaxis y Semántica en Python - Ejemplos
+Archivo de google colab: https://colab.research.google.com/drive/1dTiH-c1MMhPcTnCg0lHDX6BA2A3Oy4cJ?usp=sharing
 ### 1. Entendiendo la Indentación
 
 Python utiliza la indentación para definir bloques de código.
