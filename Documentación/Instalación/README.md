@@ -18,4 +18,4 @@ Python, un lenguaje de programación versátil, ofrece diversas maneras de insta
 
 Cada enfoque tiene sus ventajas y desafíos, por lo que la elección dependerá de tus necesidades y preferencias. Ya sea que optes por una instalación directa, la gestión de entornos virtuales o la conveniencia de la nube, Python te ofrece herramientas flexibles para dar vida a tus proyectos de manera eficiente.
 
-
+### [Preguntas frecuentes]([ispositivo.md](https://github.com/pjrios/Python-101/blob/main/Documentaci%C3%B3n/Instalaci%C3%B3n/Preguntas%20Frecuentes.md)
