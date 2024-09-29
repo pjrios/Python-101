@@ -475,4 +475,179 @@ El número mayor es: 20
 - **Preguntas**: Si tienes dudas, anótalas y consúltalas en la próxima clase o investiga en los recursos de apoyo.
 - **Calidad del Código**: Escribe código limpio y legible. Usa nombres de variables descriptivos y comentarios cuando sea útil.
 
+
+---
+
+**Respuestas del Taller en Casa: Sintaxis y Semántica en Python**
+
+---
+
+### **Actividad 1: Sintaxis Básica y Operaciones Simples**
+
+#### **Ejercicio 1: Calculadora de Propinas**
+
+**Descripción:**
+
+Crea un programa que calcule la propina a dejar en un restaurante. El programa debe:
+
+- Solicitar al usuario el monto total de la cuenta.
+- Solicitar el porcentaje de propina que desea dejar (por ejemplo, 10, 15, 20).
+- Calcular y mostrar en pantalla:
+  - El monto de la propina.
+  - El monto total a pagar (cuenta + propina).
+
+**Código:**
+
+```python
+# Calculadora de Propinas
+
+# Solicitar al usuario el monto total de la cuenta y convertirlo a float
+monto_cuenta = float(input("Ingrese el monto total de la cuenta: "))
+
+# Solicitar el porcentaje de propina y convertirlo a float
+porcentaje_propina = float(input("Ingrese el porcentaje de propina que desea dejar: "))
+
+# Calcular el monto de la propina
+monto_propina = monto_cuenta * (porcentaje_propina / 100)
+
+# Calcular el monto total a pagar (cuenta + propina)
+total_pagar = monto_cuenta + monto_propina
+
+# Mostrar el monto de la propina, redondeado a dos decimales
+print("La propina es:", round(monto_propina, 2))
+
+# Mostrar el monto total a pagar, redondeado a dos decimales
+print("El total a pagar es:", round(total_pagar, 2))
+```
+
+**Notas:**
+
+- Se utiliza `float()` para manejar números decimales en caso de que el monto de la cuenta o el porcentaje de propina incluyan decimales.
+- La función `round()` se utiliza para redondear los montos a dos decimales, como es común en cantidades monetarias.
+
+---
+
+#### **Ejercicio 2: Conversor de Unidades**
+
+**Descripción:**
+
+Escribe un programa que convierta una cantidad dada en metros a sus equivalentes en:
+
+- **Centímetros**
+- **Pulgadas**
+- **Pies**
+
+**Código:**
+
+```python
+# Conversor de Unidades
+
+# Solicitar al usuario la cantidad en metros y convertirla a float
+metros = float(input("Ingrese la cantidad en metros: "))
+
+# Factores de conversión
+METROS_A_CENTIMETROS = 100          # 1 metro = 100 centímetros
+METROS_A_PULGADAS = 39.37           # 1 metro = 39.37 pulgadas
+METROS_A_PIES = 3.281               # 1 metro = 3.281 pies
+
+# Realizar las conversiones
+centimetros = metros * METROS_A_CENTIMETROS
+pulgadas = metros * METROS_A_PULGADAS
+pies = metros * METROS_A_PIES
+
+# Mostrar los resultados, redondeados según sea necesario
+print("Equivalente en centímetros:", round(centimetros, 2), "cm")
+print("Equivalente en pulgadas:", round(pulgadas, 2), "in")
+print("Equivalente en pies:", round(pies, 3), "ft")
+```
+
+**Notas:**
+
+- Los factores de conversión se definen como constantes para mayor claridad.
+- Se utiliza `round()` para redondear los resultados:
+  - Centímetros y pulgadas a dos decimales.
+  - Pies a tres decimales, según el ejemplo proporcionado.
+
+---
+
+### **Actividad 2: Indentación y Estructuras de Control**
+
+#### **Ejercicio 3: Clasificación de Edad**
+
+**Descripción:**
+
+Crea un programa que:
+
+- Solicite al usuario su edad.
+- Determine y muestre en pantalla si es un **niño** (0-12 años), **adolescente** (13-17 años), **adulto** (18-64 años) o **adulto mayor** (65 años en adelante).
+
+**Código:**
+
+```python
+# Clasificación de Edad
+
+# Solicitar al usuario su edad y convertirla a entero
+edad = int(input("Ingrese su edad: "))
+
+# Determinar la clasificación según la edad
+if 0 <= edad <= 12:
+    print("Eres un niño.")
+elif 13 <= edad <= 17:
+    print("Eres un adolescente.")
+elif 18 <= edad <= 64:
+    print("Eres un adulto.")
+elif edad >= 65:
+    print("Eres un adulto mayor.")
+else:
+    print("Edad inválida. Por favor, ingresa una edad válida.")
+```
+
+**Notas:**
+
+- Se utilizan operadores de comparación para verificar si la edad está dentro de los rangos especificados.
+- Se incluye una condición `else` para manejar edades inválidas (por ejemplo, números negativos).
+
+---
+
+#### **Ejercicio 4: Número Mayor**
+
+**Descripción:**
+
+Escribe un programa que:
+
+- Solicite al usuario tres números enteros.
+- Determine cuál es el mayor de los tres.
+- Muestre el resultado en pantalla.
+
+**Código:**
+
+```python
+# Determinar el Número Mayor
+
+# Solicitar al usuario tres números enteros
+num1 = int(input("Ingrese el primer número: "))
+num2 = int(input("Ingrese el segundo número: "))
+num3 = int(input("Ingrese el tercer número: "))
+
+# Asumir inicialmente que el primer número es el mayor
+mayor = num1
+
+# Comparar con el segundo número
+if num2 > mayor:
+    mayor = num2
+
+# Comparar con el tercer número
+if num3 > mayor:
+    mayor = num3
+
+# Mostrar el número mayor
+print("El número mayor es:", mayor)
+```
+
+**Notas:**
+
+- Se inicia asumiendo que `num1` es el mayor y luego se compara con `num2` y `num3`.
+- Se actualiza la variable `mayor` si se encuentra un número mayor.
+- Este método es eficiente y fácil de entender para los estudiantes.
+
 ---
